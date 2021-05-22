@@ -1,0 +1,1106 @@
+page number: 1
+https://timcheh.com/search/category-power-bank?has_selling_stock=1&page=1
+
+product: 1
+product id: 216
+link: https://timcheh.com/product/tpi-216
+prise: 300000
+weight: 240
+capacity: 10000
+output: 2
+
+
+product: 2
+product id: 450
+link: https://timcheh.com/product/tpi-450
+prise: 359000
+weight: 380
+capacity: 15000
+output: 2
+
+
+product: 3
+product id: 9311
+link: https://timcheh.com/product/tpi-9311
+
+product: 4
+product id: 399
+link: https://timcheh.com/product/tpi-399
+prise: 440000
+weight: 360
+capacity: 20000
+output: 2
+
+
+product: 5
+product id: 38158
+link: https://timcheh.com/product/tpi-38158
+prise: 239000
+weight: 200
+capacity: 10000
+output: 2
+
+
+product: 6
+product id: 202
+link: https://timcheh.com/product/tpi-202
+
+product: 7
+product id: 36255
+link: https://timcheh.com/product/tpi-36255
+prise: 227000
+weight: 227
+capacity: 10000
+output: 2
+
+
+product: 8
+product id: 36045
+link: https://timcheh.com/product/tpi-36045
+prise: 339000
+weight: 420
+capacity: 20000
+output: 2
+
+
+product: 9
+product id: 716
+link: https://timcheh.com/product/tpi-716
+prise: 412000
+weight: 420
+capacity: 20000
+output: 2
+
+
+product: 10
+product id: 317
+link: https://timcheh.com/product/tpi-317
+prise: 555000
+weight: 225
+capacity: 20000
+output: 2
+
+
+product: 11
+product id: 1393
+link: https://timcheh.com/product/tpi-1393
+
+product: 12
+product id: 259
+link: https://timcheh.com/product/tpi-259
+prise: 457000
+weight: 220
+capacity: 10000
+output: 2
+
+
+product: 13
+product id: 36269
+link: https://timcheh.com/product/tpi-36269
+prise: 297000
+weight: 184
+capacity: 10000
+output: 2
+
+
+product: 14
+product id: 589
+link: https://timcheh.com/product/tpi-589
+prise: 467000
+weight: 340
+capacity: 20000
+output: 2
+
+
+product: 15
+product id: 18230
+link: https://timcheh.com/product/tpi-18230
+prise: 262000
+weight: 228
+capacity: 10000
+output: 2
+
+
+product: 16
+product id: 19940
+link: https://timcheh.com/product/tpi-19940
+prise: 322000
+weight: 127
+capacity: 10000
+output: 2
+
+
+product: 17
+product id: 36261
+link: https://timcheh.com/product/tpi-36261
+prise: 560000
+weight: 240
+capacity: 13000
+output: 2
+
+
+product: 18
+product id: 731
+link: https://timcheh.com/product/tpi-731
+prise: 332000
+weight: 217
+capacity: 10000
+output: 2
+
+
+product: 19
+product id: 1480
+link: https://timcheh.com/product/tpi-1480
+prise: 327000
+weight: 270
+capacity: 10000
+output: 1
+
+
+product: 20
+product id: 362
+link: https://timcheh.com/product/tpi-362
+prise: 397000
+weight: 415
+capacity: 20000
+output: 2
+
+
+page number: 2
+https://timcheh.com/search/category-power-bank?has_selling_stock=1&page=2
+
+product: 21
+product id: 18437
+link: https://timcheh.com/product/tpi-18437
+prise: 495000
+weight: 184
+capacity: 20000
+output: 3
+
+
+product: 22
+product id: 19928
+link: https://timcheh.com/product/tpi-19928
+prise: 240000
+weight: 225
+capacity: 10000
+output: 2
+
+
+product: 23
+product id: 20168
+link: https://timcheh.com/product/tpi-20168
+prise: 457000
+weight: 470
+capacity: 20000
+output: 2
+
+
+product: 24
+product id: 391
+link: https://timcheh.com/product/tpi-391
+prise: 427000
+weight: 320
+capacity: 20000
+output: 2
+
+
+product: 25
+product id: 68537
+link: https://timcheh.com/product/tpi-68537
+
+product: 26
+product id: 1559
+link: https://timcheh.com/product/tpi-1559
+
+product: 27
+product id: 1675
+link: https://timcheh.com/product/tpi-1675
+prise: 649000
+weight: 445
+capacity: 20000
+output: 3
+
+
+product: 28
+product id: 23433
+link: https://timcheh.com/product/tpi-23433
+prise: 549000
+weight: 196
+capacity: 10000
+output: 2
+
+
+product: 29
+product id: 35944
+link: https://timcheh.com/product/tpi-35944
+prise: 558000
+weight: 470
+capacity: 20000
+output: 2
+
+
+product: 30
+product id: 38126
+link: https://timcheh.com/product/tpi-38126
+prise: 799000
+weight: 376
+capacity: 20000
+output: 3
+
+
+product: 31
+product id: 762
+link: https://timcheh.com/product/tpi-762
+prise: 530000
+weight: 303
+capacity: 13400
+output: 2
+
+
+product: 32
+product id: 1364
+link: https://timcheh.com/product/tpi-1364
+prise: 220000
+weight: 286
+capacity: 10000
+output: 1
+
+
+product: 33
+product id: 1562
+link: https://timcheh.com/product/tpi-1562
+
+product: 34
+product id: 18522
+link: https://timcheh.com/product/tpi-18522
+
+product: 35
+product id: 19941
+link: https://timcheh.com/product/tpi-19941
+prise: 452000
+weight: 470
+capacity: 20000
+output: 2
+
+
+product: 36
+product id: 20815
+link: https://timcheh.com/product/tpi-20815
+prise: 990000
+weight: 212
+capacity: 10000
+output: 2
+
+
+product: 37
+product id: 620
+link: https://timcheh.com/product/tpi-620
+prise: 370000
+weight: 210
+capacity: 10000
+output: 2
+
+
+product: 38
+product id: 726
+link: https://timcheh.com/product/tpi-726
+prise: 312000
+weight: 196
+capacity: 10000
+output: 2
+
+
+product: 39
+product id: 772
+link: https://timcheh.com/product/tpi-772
+prise: 416000
+weight: 186
+capacity: 5000
+output: 2
+
+
+product: 40
+product id: 209
+link: https://timcheh.com/product/tpi-209
+prise: 367000
+weight: 250
+capacity: 10000
+output: 2
+
+
+page number: 3
+https://timcheh.com/search/category-power-bank?has_selling_stock=1&page=3
+
+product: 41
+product id: 36262
+link: https://timcheh.com/product/tpi-36262
+prise: 590000
+weight: 680
+capacity: 30000
+output: 2
+
+
+product: 42
+product id: 808
+link: https://timcheh.com/product/tpi-808
+prise: 595000
+weight: 350
+capacity: 20000
+output: 3
+
+
+product: 43
+product id: 38027
+link: https://timcheh.com/product/tpi-38027
+
+product: 44
+product id: 1569
+link: https://timcheh.com/product/tpi-1569
+prise: 635000
+weight: 250
+capacity: 10000
+output: 1
+
+
+product: 45
+product id: 1599
+link: https://timcheh.com/product/tpi-1599
+prise: 755000
+weight: 302
+capacity: 10000
+output: 2
+
+
+product: 46
+product id: 1723
+link: https://timcheh.com/product/tpi-1723
+prise: 315000
+weight: 290
+capacity: 10000
+output: 2
+
+
+product: 47
+product id: 19931
+link: https://timcheh.com/product/tpi-19931
+prise: 239000
+weight: 192
+capacity: 10000
+output: 2
+
+
+product: 48
+product id: 20685
+link: https://timcheh.com/product/tpi-20685
+
+product: 49
+product id: 25202
+link: https://timcheh.com/product/tpi-25202
+prise: 1105
+weight: 500
+capacity: 30000
+output: 5
+
+
+product: 50
+product id: 35933
+link: https://timcheh.com/product/tpi-35933
+prise: 227000
+weight: 150
+capacity: 5000
+output: 1
+
+
+product: 51
+product id: 803
+link: https://timcheh.com/product/tpi-803
+prise: 1109
+weight: 505
+capacity: 30000
+output: 2
+
+
+product: 52
+product id: 841
+link: https://timcheh.com/product/tpi-841
+prise: 574000
+weight: 400
+capacity: 20000
+output: 4
+
+
+product: 53
+product id: 1664
+link: https://timcheh.com/product/tpi-1664
+
+product: 54
+product id: 9903
+link: https://timcheh.com/product/tpi-9903
+prise: 700000
+weight: 392
+capacity: 15000
+output: 3
+
+
+product: 55
+product id: 18234
+link: https://timcheh.com/product/tpi-18234
+
+product: 56
+product id: 20812
+link: https://timcheh.com/product/tpi-20812
+
+product: 57
+product id: 21448
+link: https://timcheh.com/product/tpi-21448
+prise: 269000
+weight: 200
+capacity: 13000
+output: 2
+
+
+product: 58
+product id: 21486
+link: https://timcheh.com/product/tpi-21486
+prise: 424000
+weight: 380
+capacity: 20000
+output: 2
+
+
+product: 59
+product id: 443
+link: https://timcheh.com/product/tpi-443
+prise: 350000
+weight: 190
+capacity: 10000
+output: 2
+
+
+product: 60
+product id: 787
+link: https://timcheh.com/product/tpi-787
+prise: 315000
+weight: 232
+capacity: 10000
+output: 2
+
+
+page number: 4
+https://timcheh.com/search/category-power-bank?has_selling_stock=1&page=4
+
+product: 61
+product id: 68872
+link: https://timcheh.com/product/tpi-68872
+
+product: 62
+product id: 25204
+link: https://timcheh.com/product/tpi-25204
+
+product: 63
+product id: 25217
+link: https://timcheh.com/product/tpi-25217
+prise: 379000
+weight: 237
+capacity: 10000
+output: 2
+
+
+product: 64
+product id: 35904
+link: https://timcheh.com/product/tpi-35904
+prise: 410000
+weight: 283
+capacity: 10000
+output: 3
+
+
+product: 65
+product id: 35931
+link: https://timcheh.com/product/tpi-35931
+
+product: 66
+product id: 36001
+link: https://timcheh.com/product/tpi-36001
+prise: 310000
+weight: 180
+capacity: 10000
+output: 3
+
+
+product: 67
+product id: 36087
+link: https://timcheh.com/product/tpi-36087
+prise: 257000
+weight: 230
+capacity: 10000
+output: 2
+
+
+product: 68
+product id: 36094
+link: https://timcheh.com/product/tpi-36094
+prise: 355000
+weight: 170
+capacity: 10000
+output: 1
+
+
+product: 69
+product id: 36139
+link: https://timcheh.com/product/tpi-36139
+prise: 985000
+weight: 369
+capacity: 20000
+output: 2
+
+
+
+product: 70
+product id: 36195
+link: https://timcheh.com/product/tpi-36195
+prise: 497000
+weight: 201
+capacity: 10000
+output: 2
+
+
+
+product: 71
+product id: 41699
+link: https://timcheh.com/product/tpi-41699
+prise: 512000
+weight: 175
+capacity: 10000
+output: 2
+
+
+product: 72
+product id: 839
+link: https://timcheh.com/product/tpi-839
+prise: 427000
+weight: 340
+capacity: 20000
+output: 3
+
+
+product: 73
+product id: 865
+link: https://timcheh.com/product/tpi-865
+prise: 263000
+weight: 242
+capacity: 10000
+output: 1
+
+
+product: 74
+product id: 1389
+link: https://timcheh.com/product/tpi-1389
+
+product: 75
+product id: 1441
+link: https://timcheh.com/product/tpi-1441
+
+product: 76
+product id: 1448
+link: https://timcheh.com/product/tpi-1448
+
+product: 77
+product id: 1465
+link: https://timcheh.com/product/tpi-1465
+prise: 645000
+weight: 250
+capacity: 20000
+output: 2
+
+
+product: 78
+product id: 344
+link: https://timcheh.com/product/tpi-344
+prise: 307000
+weight: 290
+capacity: 10000
+output: 2
+
+
+product: 79
+product id: 597
+link: https://timcheh.com/product/tpi-597
+prise: 372000
+weight: 275
+capacity: 10000
+output: 2
+
+
+product: 80
+product id: 818
+link: https://timcheh.com/product/tpi-818
+prise: 620000
+weight: 380
+capacity: 20000
+output: 3
+
+
+page number: 5
+https://timcheh.com/search/category-power-bank?has_selling_stock=1&page=5
+
+product: 81
+product id: 1686
+link: https://timcheh.com/product/tpi-1686
+prise: 345000
+weight: 185
+capacity: 10050
+output: 2
+
+
+product: 82
+product id: 25036
+link: https://timcheh.com/product/tpi-25036
+prise: 555000
+weight: 340
+capacity: 20000
+output: 3
+
+
+product: 83
+product id: 1692
+link: https://timcheh.com/product/tpi-1692
+prise: 410000
+weight: 230
+capacity: 10000
+output: 2
+
+
+product: 84
+product id: 25224
+link: https://timcheh.com/product/tpi-25224
+prise: 285000
+weight: 180
+capacity: 2500
+output: 2
+
+
+product: 85
+product id: 1721
+link: https://timcheh.com/product/tpi-1721
+
+product: 86
+product id: 9186
+link: https://timcheh.com/product/tpi-9186
+prise: 240000
+weight: 230
+capacity: 5000
+output: 2
+
+
+product: 87
+product id: 9764
+link: https://timcheh.com/product/tpi-9764
+prise: 280000
+weight: 316
+capacity: 10000
+output: 2
+
+
+product: 88
+product id: 18519
+link: https://timcheh.com/product/tpi-18519
+
+product: 89
+product id: 20042
+link: https://timcheh.com/product/tpi-20042
+prise: 460000
+weight: 177
+capacity: 10000
+output: 1
+
+
+product: 90
+product id: 21457
+link: https://timcheh.com/product/tpi-21457
+prise: 226000
+weight: 215
+capacity: 10000
+output: 2
+
+
+product: 91
+product id: 23434
+link: https://timcheh.com/product/tpi-23434
+prise: 1280
+weight: 412
+capacity: 20000
+output: 3
+
+
+product: 92
+product id: 23435
+link: https://timcheh.com/product/tpi-23435
+prise: 375000
+weight: 192
+capacity: 10000
+output: 2
+
+
+product: 93
+product id: 23439
+link: https://timcheh.com/product/tpi-23439
+prise: 990000
+weight: 529
+capacity: 30000
+output: 3
+
+
+product: 94
+product id: 23441
+link: https://timcheh.com/product/tpi-23441
+prise: 1398
+weight: 740
+capacity: 40000
+output: 4
+
+
+product: 95
+product id: 23443
+link: https://timcheh.com/product/tpi-23443
+
+product: 96
+product id: 23444
+link: https://timcheh.com/product/tpi-23444
+prise: 1190
+weight: 840
+capacity: 10000
+output: 2
+
+
+product: 97
+product id: 1475
+link: https://timcheh.com/product/tpi-1475
+prise: 425000
+weight: 188
+capacity: 10000
+output: 1
+
+
+product: 98
+product id: 24997
+link: https://timcheh.com/product/tpi-24997
+prise: 232000
+weight: 197
+capacity: 2500
+output: 1
+
+
+product: 99
+product id: 1477
+link: https://timcheh.com/product/tpi-1477
+prise: 428000
+weight: 230
+capacity: 10000
+output: 3
+
+
+product: 100
+product id: 25023
+link: https://timcheh.com/product/tpi-25023
+prise: 975000
+weight: 505
+capacity: 30000
+output: 2
+
+
+page number: 6
+https://timcheh.com/search/category-power-bank?has_selling_stock=1&page=6
+
+product: 101
+product id: 35903
+link: https://timcheh.com/product/tpi-35903
+
+product: 102
+product id: 36304
+link: https://timcheh.com/product/tpi-36304
+
+product: 103
+product id: 35918
+link: https://timcheh.com/product/tpi-35918
+prise: 1110
+weight: 369
+capacity: 20000
+output: 2
+
+
+product: 104
+product id: 36336
+link: https://timcheh.com/product/tpi-36336
+prise: 337000
+weight: 225
+capacity: 10000
+output: 2
+
+
+product: 105
+product id: 35985
+link: https://timcheh.com/product/tpi-35985
+prise: 485000
+weight: 198
+capacity: 10000
+output: 1
+
+
+product: 106
+product id: 36550
+link: https://timcheh.com/product/tpi-36550
+
+product: 107
+product id: 35995
+link: https://timcheh.com/product/tpi-35995
+
+product: 108
+product id: 35998
+link: https://timcheh.com/product/tpi-35998
+prise: 390000
+weight: 240
+capacity: 10400
+output: 2
+
+
+product: 109
+product id: 36012
+link: https://timcheh.com/product/tpi-36012
+prise: 2040
+weight: 895
+capacity: 40000
+output: 3
+
+
+product: 110
+product id: 36019
+link: https://timcheh.com/product/tpi-36019
+prise: 440000
+weight: 300
+capacity: 10000
+output: 2
+
+
+product: 111
+product id: 36149
+link: https://timcheh.com/product/tpi-36149
+prise: 575000
+weight: 400
+capacity: 20000
+output: 4
+
+
+product: 112
+product id: 36166
+link: https://timcheh.com/product/tpi-36166
+prise: 745000
+weight: 380
+capacity: 20000
+output: 3
+
+
+product: 113
+product id: 36186
+link: https://timcheh.com/product/tpi-36186
+prise: 287000
+weight: 260
+capacity: 10000
+output: 1
+
+
+product: 114
+product id: 36198
+link: https://timcheh.com/product/tpi-36198
+
+product: 115
+product id: 36207
+link: https://timcheh.com/product/tpi-36207
+prise: 387000
+weight: 173
+capacity: 10000
+output: 3
+
+
+product: 116
+product id: 36220
+link: https://timcheh.com/product/tpi-36220
+prise: 450000
+weight: 200
+capacity: 10000
+output: 2
+
+
+product: 117
+product id: 36258
+link: https://timcheh.com/product/tpi-36258
+prise: 1050
+weight: 463
+capacity: 20000
+output: 3
+
+
+product: 118
+product id: 36263
+link: https://timcheh.com/product/tpi-36263
+prise: 412000
+weight: 440
+capacity: 20000
+output: 2
+
+
+product: 119
+product id: 25259
+link: https://timcheh.com/product/tpi-25259
+prise: 333000
+weight: 200
+capacity: 10000
+output: 2
+
+
+product: 120
+product id: 36281
+link: https://timcheh.com/product/tpi-36281
+prise: 540000
+weight: 240
+capacity: 10400
+output: 2
+
+
+
+page number: 7
+https://timcheh.com/search/category-power-bank?has_selling_stock=1&page=7
+
+product: 121
+product id: 50664
+link: https://timcheh.com/product/tpi-50664
+prise: 999000
+weight: 671
+capacity: 30000
+output: 3
+
+
+product: 122
+product id: 54898
+link: https://timcheh.com/product/tpi-54898
+prise: 560000
+weight: 300
+capacity: 10050
+output: 2
+
+
+product: 123
+product id: 54902
+link: https://timcheh.com/product/tpi-54902
+prise: 684000
+weight: 490
+capacity: 20100
+output: 3
+
+
+product: 124
+product id: 54915
+link: https://timcheh.com/product/tpi-54915
+prise: 585000
+weight: 188
+capacity: 10000
+output: 1
+
+
+product: 125
+product id: 59745
+link: https://timcheh.com/product/tpi-59745
+
+product: 126
+product id: 60993
+link: https://timcheh.com/product/tpi-60993
+
+product: 127
+product id: 63697
+link: https://timcheh.com/product/tpi-63697
+
+product: 128
+product id: 68588
+link: https://timcheh.com/product/tpi-68588
+
+product: 129
+product id: 68598
+link: https://timcheh.com/product/tpi-68598
+
+product: 130
+product id: 36614
+link: https://timcheh.com/product/tpi-36614
+prise: 396000
+weight: 190
+capacity: 10000
+output: 2
+
+
+product: 131
+product id: 68616
+link: https://timcheh.com/product/tpi-68616
+
+product: 132
+product id: 36645
+link: https://timcheh.com/product/tpi-36645
+prise: 354000
+weight: 226
+capacity: 10000
+output: 2
+
+
+product: 133
+product id: 68860
+link: https://timcheh.com/product/tpi-68860
+
+product: 134
+product id: 36657
+link: https://timcheh.com/product/tpi-36657
+
+product: 135
+product id: 68883
+link: https://timcheh.com/product/tpi-68883
+
+product: 136
+product id: 36660
+link: https://timcheh.com/product/tpi-36660
+
+product: 137
+product id: 68963
+link: https://timcheh.com/product/tpi-68963
+
+product: 138
+product id: 38148
+link: https://timcheh.com/product/tpi-38148
+prise: 349000
+weight: 400
+capacity: 10000
+output: 3
+
+
+product: 139
+product id: 41365
+link: https://timcheh.com/product/tpi-41365
+prise: 999000
+weight: 222
+capacity: 10000
+output: 1
+
+
+product: 140
+product id: 43903
+link: https://timcheh.com/product/tpi-43903
+prise: 482000
+weight: 445
+capacity: 20000
+output: 2
+
+
+Accuracy of This Web Scraping:
+Actual number of Products: 140
+Number of products detected: 140
+Accuracy: 100.0
+Number of products identified with complete information: 100
+Accuracy: 71.42857142857143
+
