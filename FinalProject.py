@@ -163,7 +163,7 @@ if __name__ == "__main__":
     db = mysql.connect(
         host='127.0.0.1',
         user='root',
-        password='@Iran1391'
+        password='pass'
     )
 
     cursor = db.cursor()
